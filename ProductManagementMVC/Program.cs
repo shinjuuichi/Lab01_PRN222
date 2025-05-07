@@ -1,7 +1,4 @@
-using DataAccessObjects;
 using ProductManagementMVC;
-using Repositories;
-using Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

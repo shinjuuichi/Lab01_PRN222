@@ -1,6 +1,6 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using ProductManagementMVC.Models;
+using System.Diagnostics;
 
 namespace ProductManagementMVC.Controllers
 {

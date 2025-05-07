@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using BusinessObjects;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using BusinessObjects;
 namespace DataAccessObjects;
 
 public partial class MyStoreContext : DbContext
